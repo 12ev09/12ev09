@@ -1,5 +1,10 @@
-Hello I'm @12ev09
-
+## Stats
 ![12ev09's GitHub stats](https://github-readme-stats.vercel.app/api?username=12ev09&count_private=true&how_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12ev09&langs_count=4&exclude_repo=mydotfiles&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+## My Skills
+
+### languages
+[![My Skills](https://skillicons.dev/icons?i=js,react,go,python,cpp)](https://skillicons.dev)
+
+### services
+[![My Skills](https://skillicons.dev/icons?i=docker,gcp,heroku,github,git)](https://skillicons.dev)
