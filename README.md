@@ -1,6 +1,3 @@
-## Stats
-![12ev09's GitHub stats](https://github-readme-stats.vercel.app/api?username=12ev09&count_private=true&how_icons=true&theme=merko)
-
 ## My Skills
 
 ### languages
